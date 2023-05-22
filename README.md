@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RootUserGit
-- 👀 I’m interested in Full Stack Web Development 
+- 👀 I’m interested in DevSecOps 
 - 🌱 I’m currently learning HTML,CSS,JS
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me:- rahulsinghpilkh@gmail.com
